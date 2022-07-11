@@ -27,4 +27,4 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->component  = 'local_praxis_42';
 $plugin->version  = 2022071101;   // The (date) version of this plugin.
-$plugin->requires = 2020061514;   // Requires this Moodle version. (3.9)
+$plugin->requires = 2020061500;   // Requires this Moodle version. (3.9) 
