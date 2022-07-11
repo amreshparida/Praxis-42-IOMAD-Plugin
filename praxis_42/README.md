@@ -76,11 +76,12 @@ $ php admin/cli/upgrade.php
 
 - Now go to Praxis 42 plugin Form 2.Select company, course, user and fill final grade and course completion date and time.on submit it will mark course completion for the user with final grade and completion date and time. 
 ```
-
 ## Video Demo
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="path/to/poster_image.png">
-    <source src="https://about.gitlab.com/handbook/markdown-guide/html5-demo.mp4" type="video/mp4">
+  <video controls="true" allowfullscreen="true" >
+    <source src="https://www.w3schools.com/html/mov_bbb.mp4">
   </video>
- </figure>
- 
+</figure>
+
+
+
